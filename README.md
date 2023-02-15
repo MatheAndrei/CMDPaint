@@ -9,7 +9,7 @@ CMDPaint is a simple paint application that runs in Windows CMD.
 
 ## How to use
 In order to successfully run the application the executable and resources folder must be put in the same directory.
-If Windows 10 or 11 is used, change the default terminal to Windows Console Host ([tutorial](https://windowsreport.com/windows-11-change-default-terminal/)).
+If Windows 10 or 11 is used, change the default terminal to Windows Console Host ([tutorial](https://windowsreport.com/windows-11-change-default-terminal/)) or change the compatibility mode of the executable to Windows XP (Service Pack 3).
 
 ## Important notes
 - the app must be run in Windows Console Host
